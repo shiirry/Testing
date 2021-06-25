@@ -1,12 +1,12 @@
 {
   "title": "Nightwatch Guardian",
   "description": "idk",
-  "artist": "manga artist",
-  "author": "manga author",
-  "cover": "mangacoverurl.jpg",
+  "artist": "artist",
+  "author": "author",
+  "cover": "https://cdn.discordapp.com/attachments/687023500544049242/857813626059489280/unknown.png",
   "chapters": {
     "2": {
-      "title": "chapter name",
+      "title": "chapter",
       "volume": "1",
       "groups": {
         "Bubble Tea Scans": "/proxy/api/imgur/chapter/0uGrPH0/"
