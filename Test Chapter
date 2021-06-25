@@ -3,15 +3,15 @@
   "description": "idk",
   "artist": "manga artist",
   "author": "manga author",
-  "cover": "<mangacoverurl.jpg>",
+  "cover": "mangacoverurl.jpg",
   "chapters": {
-    "<2>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+    "2": {
+      "title": "chapter name",
+      "volume": "1",
       "groups": {
-        "<Bubble Tea Scans>": "/proxy/api/imgur/chapter/0uGrPH0/"
+        "Bubble Tea Scans": "/proxy/api/imgur/chapter/0uGrPH0/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "0"
     },
   }
 }
