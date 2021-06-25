@@ -1,25 +1,25 @@
 {
-  "title": "Nightwatch Guardian",
-  "description": "\"Tell me, the pain and suffering I've went through... is there an easier way to endure it?" \n The tiger, Li Yexun, didn't know how to comfort A'Song. \“There isn't... but you still have me.\"",
-  "artist": "Luo Yan",
-  "author": "Luo Yan",
-  "cover": "https://i.imgur.com/pmoUIKh.png",
-  "chapters": {
-    "00": {
-      "title": "Promo",
-      "volume": "00",
-      "groups": {
-        "BubbleTeaScans": "/proxy/api/imgur/chapter/0uGrPH0/"
+   "title":"Nightwatch Guardian",
+   "description":"\"Tell me, the pain and suffering I've went through... is there an easier way to endure it?\" \n The tiger, Li Yexun, didn't know how to comfort A'Song. \\“There isn't... but you still have me.\"",
+   "artist":"Luo Yan",
+   "author":"Luo Yan",
+   "cover":"https://i.imgur.com/pmoUIKh.png",
+   "chapters":{
+      "00":{
+         "title":"Promo",
+         "volume":"00",
+         "groups":{
+            "BubbleTeaScans":"/proxy/api/imgur/chapter/0uGrPH0/"
+         },
+         "last_updated":"1619812137"
       },
-      "last_updated": "1619812137"
-    },
-    "02": {
-      "title": "Chapter 2",
-      "volume": "00",
-      "groups": {
-        "BubbleTeaScans": "/proxy/api/imgur/chapter/0uGrPH0/"
-      },
-      "last_updated": "1619812138"
-    }
-  }
+      "02":{
+         "title":"Chapter 2",
+         "volume":"00",
+         "groups":{
+            "BubbleTeaScans":"/proxy/api/imgur/chapter/0uGrPH0/"
+         },
+         "last_updated":"1619812138"
+      }
+   }
 }
