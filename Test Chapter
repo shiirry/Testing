@@ -1,15 +1,15 @@
 {
-  "title": "<Nightwatch Guardian>",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
+  "title": "Nightwatch Guardian",
+  "description": "idk",
+  "artist": "manga artist",
+  "author": "manga author",
   "cover": "<mangacoverurl.jpg>",
   "chapters": {
     "<2>": {
       "title": "<chapter name>",
       "volume": "<volume number>",
       "groups": {
-        "<Bubble Tea Scans>": "/proxy/api/imgur/chapter/<0uGrPH0>/"
+        "<Bubble Tea Scans>": "/proxy/api/imgur/chapter/0uGrPH0/"
       },
       "last_updated": "1616368746"
     },
