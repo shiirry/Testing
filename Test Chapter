@@ -1,17 +1,17 @@
-
 {
-"title":"Nightwatch Guardian",
-  "description":"",
-  "artist":"","author":"",
-  "cover":"https://media.discordapp.net/attachments/687023500544049242/857813626059489280/unknown.png",
-  "chapters":{
-    "2": {
-      "title": "",
-      "volume": "1",
-      "groups": 
-        {"Bubble Tea Scans": "/proxy/api/imgur/chapter/0uGrPH0/"},
-          "last_updated": "-2209161600"
-          }
-        }
+   "title":"Deadman's Questions",
+   "description":"La storia parla delle vicende di uno spirito vagante che cerca la felicità nel suo lavoro: il sicario. Scan offerte da @JojosItaly su Telegram.",
+   "artist":"Araki Hirohiko",
+   "author":"Araki Hirohiko",
+   "cover":"https://i.imgur.com/LfwItQr.png",
+   "chapters":{
+      "1":{
+         "title":"Deadman's Question 1",
+         "volume":"1",
+         "groups":{
+            "Jojo's Italy":"/proxy/api/imgur/chapter/mnMUoL3/"
+         },
+         "last_updated":"1621861292"
       }
-    }
+   }
+}
