@@ -1,2 +1,17 @@
 
-{"title":"Nightwatch Guardian","description":"","artist":"","author":"","cover":"https://media.discordapp.net/attachments/687023500544049242/857813626059489280/unknown.png","chapters":{"2": {"title": "","volume": "1","groups": {"Bubble Tea Scans": "/proxy/api/imgur/chapter/0uGrPH0/"},"last_updated": "-2209161600"}}}
+{
+"title":"Nightwatch Guardian",
+  "description":"",
+  "artist":"","author":"",
+  "cover":"https://media.discordapp.net/attachments/687023500544049242/857813626059489280/unknown.png",
+  "chapters":{
+    "2": {
+      "title": "",
+      "volume": "1",
+      "groups": 
+        {"Bubble Tea Scans": "/proxy/api/imgur/chapter/0uGrPH0/"},
+          "last_updated": "-2209161600"
+          }
+        }
+      }
+    }
